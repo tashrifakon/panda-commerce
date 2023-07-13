@@ -2,7 +2,7 @@
     padding-top: 50px ;
 }
 .backgound{
-    background-color:hsl(0, 15%, 92%) ;
+    background-color:#fceae8;
 
 }
 
@@ -13,7 +13,7 @@ nav{
 #carouselExampleAutoplaying{
     padding: 20px 40px;
     margin: 30px 0px ;
-    border-radius: 30%;
+    border-radius: 5%;
     box-shadow: 5px 5px 70px lightskyblue;
 }
 
